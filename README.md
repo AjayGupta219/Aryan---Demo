@@ -1,2 +1,2 @@
 # Aryan---Demo
-This is a demo of Git and Github
+This is a demo of Git and Github.
